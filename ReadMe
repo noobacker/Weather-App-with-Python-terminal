@@ -1,0 +1,25 @@
+# How to get a openweathermap API and use it in this project;
+
+Step 1 :
+visit :- https://home.openweathermap.org/api_keys
+
+Step 2 :
+Login / Signin your account
+
+Step 3 :
+Create a new API with a custom name for further reference
+
+Step 4 :
+Put your "API-KEY" where "YOUR_API_KEY" is mentioned.
+
+Thanks for trying my simple project.
+
+# Run this project by given below command;
+
+Python3 app.py
+
+# Harshal Pimpalshende
+
+# https://github.com/noobacker
+
+# https://www.linkedin.com/in/harshal-pimpalshende-65a467205/
